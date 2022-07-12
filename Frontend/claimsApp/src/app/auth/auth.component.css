@@ -1,0 +1,74 @@
+button {
+  margin: 30px 0px 2px 2px;
+  
+}
+.btn btn-primary
+{
+  background-color: #3491b2;
+}
+
+input.ng-invalid.ng-touched {
+  border: 2px solid red;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  font-weight: 800;
+  font-size: 40px;
+  display: inline-block;
+}
+.back
+{
+  background-image: linear-gradient(to bottom right, #d5ecf1, #90c9d5, #d4dcff,#3491b2);
+}
+.container {
+  height: 94vh;
+  width: 100vw;
+  
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.row__content {
+  height: 90%;
+  border: 5px solid rgb(149 146 146);
+  padding: 40px;
+  border-radius: 8%;
+  position: relative;
+}
+
+.form-group {
+  margin-top: 30px;
+}
+
+.spinner {
+  position: absolute;
+  top: 38%;
+  left: 42%;
+}
+
+.btn {
+  position: absolute;
+  bottom: 80px;
+  left: 40px;
+  padding: 12.5px 35px;
+  border-radius: 100px;
+}
+
+.btn[disabled] {
+  cursor: not-allowed;
+}
+
+.svg-icon {
+  height: 40px;
+  width: 40px;
+}

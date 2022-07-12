@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sonar-scanner-cli-3.1.0.1141">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/claimsApp/node_modules/sonar-scanner/lib/sonar-scanner-cli-3.1.0.1141.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
